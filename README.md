@@ -94,7 +94,7 @@ By examining the logs in our application, we can trace how data flows from `App`
 
 ## Bonus
 
-Take a look at the [Turtle]('./src/components/Turtle/Turtle.jsx') component to explore three different ways of handling props in React components. Each approach achieves the same result but demonstrates different JavaScript and React patterns:
+Take a look at the [Turtle](./src/components/Turtle/Turtle.jsx) component to explore three different ways of handling props in React components. Each approach achieves the same result but demonstrates different JavaScript and React patterns:
 
 - Try uncommenting each version one at a time.
 - Compare how the syntax changes but the functionality stays the same.

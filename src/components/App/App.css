@@ -1,0 +1,25 @@
+.app {
+  color: green;
+  padding: 20px;
+  text-align: center;
+}
+
+.turtle-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.turtle {
+  color: white;
+  border: 2px solid green;
+  font-weight: 700;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.turtle h2 {
+  margin-bottom: 10px;
+}

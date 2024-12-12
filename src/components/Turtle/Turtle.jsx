@@ -12,7 +12,6 @@ const Turtle = (props) => {
   );
 };
 
-export default Turtle;
 
 // // Way #2: Destructuring props in the function body
 // const Turtle = (props) => {
@@ -28,7 +27,7 @@ export default Turtle;
 //     </div>
 //   );
 // };
-// export default Turtle;
+
 
 // // Way #3: Destructuring props directly in the function parameters
 // const Turtle = ({ turtle, status }) => {
@@ -43,4 +42,6 @@ export default Turtle;
 //     </div>
 //   );
 // };
-// export default Turtle;
+
+
+export default Turtle;
